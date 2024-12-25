@@ -1,0 +1,18 @@
+.Movies .ant-card-meta-title, 
+.Movies .ant-card-meta-description {
+    color: #eaeaea !important;
+  }
+  
+.Movies .ant-card {
+    color: #eaeaea !important; 
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+.Movies .ant-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 162, 255, 0.384);
+
+}
+
+
+
+  

@@ -1,0 +1,46 @@
+.MovieDetail {
+    max-width: 1200px;
+    margin: 30px auto;
+
+  }
+  
+  .MovieDetail .movie-card {
+    background-color: #1a242f;
+    border: none;
+    border-radius: 10px;
+
+  }
+  
+  .MovieDetail .movie-poster {
+    width: 100%;
+    max-width: 300px;
+    height: 450px; 
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  
+  .MovieDetail .movie-title {
+    color: #5cacff;
+    font-size: clamp(2rem, 2.5vw, 4.5rem) !important;
+    margin-bottom: 8px;
+  }
+  
+  .MovieDetail .movie-tagline {
+    font-size: clamp(0.9rem, 1.5vw, 1.8rem);
+    color: #eaeaea;
+    margin-bottom: 16px;
+  }
+  
+  .MovieDetail .ant-typography {
+    color: #eaeaea;
+    line-height: 1.5;
+    font-size: 1rem
+  }
+  
+  .MovieDetail .ant-divider {
+    border-color: #5cacff;
+    border-top-width: 1px;
+  }
+  
+
+  
