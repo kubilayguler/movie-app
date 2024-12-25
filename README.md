@@ -14,6 +14,7 @@ Movie Detail Page
 ![image](https://github.com/user-attachments/assets/45c4f513-0bb5-4911-b41e-b34e25dfb2dc)
 
 #PHONE
+
 Main Page 
 ![image](https://github.com/user-attachments/assets/570556ea-01a5-4b40-9b3f-177689abb9bd)
 
