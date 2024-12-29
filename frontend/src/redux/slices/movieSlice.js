@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const API_KEY = '0b6e9189b152b8bd26f727fed1e9058a';
+const API_KEY = 'YOUR_API_KEY';
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 export const fetchMoviesWithOffset = createAsyncThunk(
