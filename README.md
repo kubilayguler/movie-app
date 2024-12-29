@@ -1,4 +1,4 @@
-# RESPONSIVE MOVIE APP
+# REACT & ANTD RESPONSIVE MOVIE APP
 
 ## PC/TABLET
 ### Main Page - Popular Movies
@@ -19,8 +19,9 @@
 ### Main Page 
 ![image](https://github.com/user-attachments/assets/570556ea-01a5-4b40-9b3f-177689abb9bd)
 
+### Movie Detail Page
+![image](https://github.com/user-attachments/assets/66398a1b-3517-4534-b43f-81b2c95f29be)
+
 ### Pagination with using Limit/Offset
 ![image](https://github.com/user-attachments/assets/b8d3eb8f-c8fe-45dd-bf7e-1efacd2c1c9f)
 
-### Movie Detail Page
-![image](https://github.com/user-attachments/assets/66398a1b-3517-4534-b43f-81b2c95f29be)
